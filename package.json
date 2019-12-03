@@ -4,9 +4,7 @@
   "description": "",
   "main": "prnode.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "int-test": "mocha --require babel-core/register --recursive test",
-    "start": "prnode.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
