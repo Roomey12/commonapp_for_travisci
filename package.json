@@ -4,14 +4,15 @@
   "description": "",
   "main": "prnode.js",
   "scripts": {
-    "start": "prnode.js",
-    "test": "mocha"
+    "test": "npm run lint",
+    "start": "node prnode.js",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Roomey12/first_app.git"
   },
-  "author": "",
+  "author": "Alex Lutsenko",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Roomey12/first_app/issues"
