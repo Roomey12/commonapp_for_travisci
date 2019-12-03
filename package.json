@@ -4,6 +4,7 @@
   "description": "",
   "main": "prnode.js",
   "scripts": {
+    "start": "prnode.js",
     "test": "mocha"
   },
   "repository": {
