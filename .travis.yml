@@ -1,6 +1,6 @@
 {
   "os": [
-    "linux"
+    "windows"
   ],
   "node_js": [
     "6",
