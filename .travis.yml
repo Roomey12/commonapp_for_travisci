@@ -5,7 +5,3 @@ script:
   - npm test
 notifications:
   email: false
-deploy:
-  provider: heroku
-  app: labnode # optional if it's the same as your repo name
-  api_key: "6o94LpVmN_9c0cD33EMVAw"
