@@ -55,5 +55,8 @@
   "pre-commit": "lint-staged",
   "lint-staged": {
     "*.js": "eslint"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
   }
 }
