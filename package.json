@@ -57,6 +57,8 @@
     "*.js": "eslint"
   },
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "gem": "^2.4.3",
+    "travis": "^0.1.1"
   }
 }
